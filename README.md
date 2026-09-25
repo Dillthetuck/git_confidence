@@ -12,3 +12,5 @@ This repository contains my IS 303 Git practice.
 ## About me
 
 I am learning Git and GitHub in IS 303 at BYU.
+
+This sentence was added directly on GitHub.
